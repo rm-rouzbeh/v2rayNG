@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- ==================== TONIC custom strings ==================== -->
+    <string name="tonic_username_hint">نام کاربری</string>
+    <string name="tonic_password_hint">رمز عبور</string>
+    <string name="tonic_login">ورود</string>
+    <string name="tonic_logout">خروج</string>
+    <string name="tonic_logging_in">در حال ورود…</string>
+    <string name="tonic_login_failed">ورود ناموفق بود. نام کاربری و رمز عبور را بررسی کنید.</string>
+    <string name="tonic_network_error">خطای شبکه. دوباره تلاش کنید.</string>
+    <string name="tonic_empty_credentials">لطفاً نام کاربری و رمز عبور را وارد کنید.</string>
+    <string name="tonic_welcome">خوش آمدید</string>
+    <string name="tonic_tap_to_connect">برای اتصال بزنید</string>
+    <string name="tonic_connecting">در حال اتصال…</string>
+    <string name="tonic_connected">متصل شد</string>
+    <string name="tonic_disconnected">متصل نیست</string>
+    <string name="tonic_disconnecting">در حال قطع…</string>
+    <string name="tonic_status_connected">محافظت‌شده</string>
+    <string name="tonic_status_disconnected">محافظت‌نشده</string>
+    <string name="tonic_updating_servers">در حال به‌روزرسانی سرورها…</string>
+    <string name="tonic_servers_updated">سرورها به‌روز شدند</string>
+    <string name="tonic_no_servers">هنوز سروری موجود نیست. برای تازه‌سازی بکشید.</string>
+    <string name="tonic_choose_location">انتخاب لوکیشن</string>
+    <string name="tonic_auto_fastest">خودکار (سریع‌ترین)</string>
+    <string name="tonic_refresh">تازه‌سازی</string>
+    <string name="tonic_support">پشتیبانی</string>
+    <string name="tonic_test_ping">تست سرعت</string>
+    <string name="tonic_ms">%d میلی‌ثانیه</string>
+    <string name="tonic_current_location">لوکیشن</string>
+    <!-- ============================================================= -->
     <string name="app_widget_name">تعویض</string>
-    <string name="app_tile_name">تعویض</string>
     <string name="app_tile_first_use">برای اولین استفاده از این قابلیت، لطفاً ابتدا از داخل برنامه یک سرور اضافه کنید</string>
     <string name="navigation_drawer_open">باز کردن منو کشویی</string>
     <string name="navigation_drawer_close">بستن منو کشویی</string>

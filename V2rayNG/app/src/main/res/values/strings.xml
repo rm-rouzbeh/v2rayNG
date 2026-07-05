@@ -1,8 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">v2rayNG</string>
+    <!-- ==================== TONIC custom strings ==================== -->
+    <string name="tonic_username_hint">Username</string>
+    <string name="tonic_password_hint">Password</string>
+    <string name="tonic_login">Log in</string>
+    <string name="tonic_logout">Log out</string>
+    <string name="tonic_logging_in">Logging in…</string>
+    <string name="tonic_login_failed">Login failed. Check your username and password.</string>
+    <string name="tonic_network_error">Network error. Please try again.</string>
+    <string name="tonic_empty_credentials">Please enter your username and password.</string>
+    <string name="tonic_welcome">Welcome</string>
+    <string name="tonic_tap_to_connect">Tap to connect</string>
+    <string name="tonic_connecting">Connecting…</string>
+    <string name="tonic_connected">Connected</string>
+    <string name="tonic_disconnected">Not connected</string>
+    <string name="tonic_disconnecting">Disconnecting…</string>
+    <string name="tonic_status_connected">Protected</string>
+    <string name="tonic_status_disconnected">Unprotected</string>
+    <string name="tonic_updating_servers">Updating servers…</string>
+    <string name="tonic_servers_updated">Servers updated</string>
+    <string name="tonic_no_servers">No servers available yet. Pull to refresh.</string>
+    <string name="tonic_choose_location">Choose location</string>
+    <string name="tonic_auto_fastest">Auto (fastest)</string>
+    <string name="tonic_refresh">Refresh</string>
+    <string name="tonic_support">Support</string>
+    <string name="tonic_test_ping">Test speed</string>
+    <string name="tonic_ms">%d ms</string>
+    <string name="tonic_current_location">Location</string>
+    <!-- ============================================================= -->
     <string name="app_widget_name">Switch</string>
-    <string name="app_tile_name">Switch</string>
     <string name="app_tile_first_use">First use of this feature, please use the app to add server</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
